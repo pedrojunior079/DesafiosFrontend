@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
+
+.div{
+  width: Fixed 1,920;
+  height: Hug 283px;
+  text-align: center;
+  
+  font-family: "Space Grotesk";
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 51.01px;
+
+
+  /* Input-search */
+  width: Fixed 1,216px;
+  height: Hug 56px;
+  padding: 16px 24px 16px 24px;
+  gap: 16px;
+  border-radius: 8px;
+  border: 2px;
+  opacity: 0px;
+  background: #202024;
+  border: 2px solid #252529;
+  
+}

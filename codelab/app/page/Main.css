@@ -1,0 +1,269 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
+
+.cards{
+  width: Hug 1,216px;
+  height: 969px;
+  top: 291px;
+  left: 352px;
+  padding: 80px;
+  gap: 40px;
+  opacity: 0px;
+}
+
+.card-active{
+   width: Fixed 1,216px;
+   height: Hug 243px;
+   padding: 40px;
+   gap: 20px;
+   border-radius: 8px;
+   border: 2px;
+   opacity: 0px;
+    
+   background: #17171A;
+    
+   border: 2px solid #E07B67  
+}
+
+.card image{
+  width: Hug 1,136px;
+  height: Hug 32px;
+  gap: 981px;
+  opacity: 0px;
+   
+}
+   
+.card text{
+  width: 123px;
+  height: 19px;
+  gap: 0px;
+  opacity: 0px;
+    
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19.36px;
+  text-align: left;
+   
+  background: #E07B67;
+}
+
+.card icon-heart-active{
+  width: 32px;
+  height: 23.99px;
+  top: 4px;
+  left: 2px;
+  padding: 4px 2px 4.01px 2px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+   
+.card h2 {
+  width: 684px;
+  height: 31px;
+  gap: 0px;
+  opacity: 0px;
+     
+  font-family: "Space Grotesk";
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 30.62px;
+  text-align: left;
+     
+  color: #FFFFFF;
+}
+
+.card p {
+  width: 1136px;
+  height: 64px;
+  gap: 0px;
+  opacity: 0px;
+    
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 32px;
+  text-align: left;
+   
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 32px;
+  text-align: left;
+    
+  color: #AFABB6;
+}
+
+.card1{
+  width: Fixed 1,216px;
+  height: Hug 243px;
+  padding: 40px;
+  gap: 20px;
+  border-radius: 8px;
+  border: 2px;
+  opacity: 0px;
+    
+  background: #17171A;
+    
+  border: 2px solid #252529
+ 
+ }
+ 
+ .card1_image1{ 
+   width: Fill 1,136px;
+   height: Hug 32px;
+   gap: 981px;
+   opacity: 0px;
+ }
+ 
+ .card1 text{
+   width: 112px;
+   height: 19px;
+   gap: 0px;
+   opacity: 0px;
+   
+   font-family: Inter;
+   font-size: 16px;
+   font-weight: 500;
+   line-height: 19.36px;
+   text-align: left;
+   
+   background: #E07B67;
+ }
+ 
+ .card1 icon-hearth{
+   width: 32px;
+   height: 32px;
+   top: 4px;
+   left: 2px;
+   padding: 4px 2px 4.01px 2px;
+   gap: 0px;
+   opacity: 0px;
+ }
+ 
+ .card1 h2{
+  width: 642px;
+  height: 31px;
+  gap: 0px;
+  opacity: 0px;
+  
+  font-family: "Space Grotesk";
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 30.62px;
+  text-align: left;
+ 
+  color: #FFFFFF;
+ 
+ }
+ 
+ .card1 p{
+  width: 1136px;
+  height: 64px;
+  gap: 0px;
+  opacity: 0px;
+  
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 32px;
+  text-align: left;
+  
+  color: #AFABB6;
+ }
+ 
+  
+ .card2{
+  width: Fixed 1,216px;
+  height: Hug 243px;
+  padding: 40px;
+  gap: 20px;
+  border-radius: 8px;
+  border: 2px;
+  opacity: 0px;
+  
+  background: #17171A;
+ 
+  border: 2px solid #252529;
+  
+ }
+
+.card2_image2{
+  width: Hug 1,136px;
+  height: Hug 32px;
+  gap: 981px;
+  opacity: 0px;
+}
+
+.card2 text{
+  width: 118px;
+  height: 19px;
+  gap: 0px;
+  opacity: 0px;
+  
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19.36px;
+  text-align: left;
+  
+  background: #E07B67;
+
+}
+
+.card2 icon-hearth{
+  width: 32px;
+  height: 32px;
+  top: 4px;
+  left: 2px;
+  padding: 4px 2px 4.01px 2px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.card2 h2{
+  width: 546px;
+  height: 31px;
+  gap: 0px;
+  opacity: 0px;
+ 
+  font-family: "Space Grotesk";
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 30.62px;
+  text-align: left;
+  
+  color: #FFFFFF;
+}
+
+.card2 p{
+  width: 1136px;
+  height: 64px;
+  gap: 0px;
+  opacity: 0px;
+
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 32px;
+  text-align: left;
+
+  color: #AFABB6;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
